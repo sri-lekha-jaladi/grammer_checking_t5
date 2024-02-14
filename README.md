@@ -1,4 +1,4 @@
-# grammer_checking_t5
+# grammer checking and correction
 Project: A Machine Learning project for Grammar Checking
 
 # NOTE: For the above notebook (data preparation & training T5 model for grammar correction.ipynb) below are the trained data link and trained model link, i am attaching google drive links because of github is not allowing files of sizes more than 25MB
